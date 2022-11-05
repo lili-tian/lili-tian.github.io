@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lili Tian / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lili Tian"
 description              : &description "personal description"
