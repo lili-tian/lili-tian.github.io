@@ -8,24 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Doctoral researcher
-Department of Psychology
-University of Jyväskylä, Finland
+Doctoral researcher \
+Department of Psychology \
+University of Jyväskylä, Finland \
 Email: litian@jyu.fi
 
 Education
 ======
-Ph.D candidate in Psychology, Sep, 2017-now
-Supervisors: Tiina Parviainen, Paavo Leppänen, Hongjun Chen
-Department of Psychology, P.O.Box 35
-FI-40014, University of Jyväskylä (JYU), Jyväskylä, Finland.
-
-Master of Art in Psycholinguistics, Sep 2013- Jun 2016
-Supervisor: Meng Jiang
-Language and Brain Research Center, 
-CN-400031, Sichuan International Studies University (SISU), Chongqing, China. 
-+86 02365385251
-Thesis: Semantic transfer in the acquisition of English same-translation words for EFL learners: an ERP study. 
+- 2017.09-now, Ph.D candidate in Psychology, Department of Psychology, University of Jyväskylä (JYU), Jyväskylä, Finland. \
+  Supervisors: Tiina Parviainen, Paavo Leppänen, Hongjun Chen
+  
+- 2013.09- 2016.06, Master of Art in Psycholinguistics, Language and Brain Research Center, Sichuan International Studies University (SISU), Chongqing, China. \
+  Supervisor: Meng Jiang \
+  Thesis: Semantic transfer in the acquisition of English same-translation words for EFL learners: an ERP study. 
 
 Getting started
 ======
