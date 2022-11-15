@@ -5,9 +5,6 @@ main:
 
   - title: "Academic activities"
     url: /Academic activities/     
-          
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
