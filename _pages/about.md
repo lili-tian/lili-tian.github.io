@@ -13,7 +13,7 @@ Department of Psychology \
 University of Jyväskylä, Finland \
 Email: litian@jyu.fi
 
-I collect stamps and data.
+I collect stamps and data.\
 I write poems and papers.
 
 Education
