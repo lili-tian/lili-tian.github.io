@@ -27,7 +27,7 @@ Education
 
 News
 ======
-- 2022.11.3 Our paper (Spatiotemporal dynamics of activation in motor and language areas suggest a compensatory role of the motor cortex in second language processing) \              is accepted by the journal Neurobiology of Language.
+- 2022.11.3 Our paper (Spatiotemporal dynamics of activation in motor and language areas suggest a compensatory role of the motor cortex in second language processing) is accepted by Neurobiology of Language.
 
 Research interests
 ------
